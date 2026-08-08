@@ -8,6 +8,7 @@ We evaluated deep feature extraction using a pre-trained **VGG16** backbone pair
 
 ## 📄 Reference Files
 
+* **Thesis Manuscript (PDF)**: [View Full Thesis Document on Google Drive](https://drive.google.com/file/d/1g0qs2jMMuvtVUh_RYSbjl1XyBXcjZCBK/view?usp=drive_link)
 * **`DATSCI20_Journal.pdf`**: Research journal in ACM format.
 * **`DATSCI20_Documentation.pdf`**: Our complete model performance documentation and logs.
 * **`DATSCI20_ResearchDescription.pdf`**: Detailed background and project scope.
@@ -40,9 +41,7 @@ Thesis-DATASCI20-Output/
 ├── DATSCI20_ResearchDescription.pdf       # Detailed research overview
 ├── DATSCI20_Tarp.png                      # Project presentation poster
 └── README.md                              # Main repository documentation
-
 ```
-
 ## 👥 Authors & Acknowledgments
 
 * **Authors:** Charles Fredric Inventado, Ken David Pates, John Vincent (JV) Rodelas, and James Vincent Valles
