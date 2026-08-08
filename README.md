@@ -46,3 +46,5 @@ Thesis-DATASCI20-Output/
 
 * **Authors:** Charles Fredric Inventado, Ken David Pates, John Vincent (JV) Rodelas, and James Vincent Valles
 * **Affiliation:** DATASCI20, A.Y. 2026 Graduates, Department of Computer Science, University of Santo Tomas
+* **Thesis Adviser:** Mr. Ahdrian Camilo Gernale
+* **Thesis Coordinator:** Prof. Donata Acula
