@@ -44,15 +44,16 @@ We evaluated deep feature extraction using a pre-trained **VGG16** backbone pair
 
 ---
 
-## 📄 Reference Files
+## 📄 Reference Files & Repository Assets
 
-| Document | Format | Description | Link / Location |
+| Document / Asset | Format | Description | Link / Location |
 | :--- | :---: | :--- | :--- |
 | **Thesis Manuscript** | `PDF` | Full Undergraduate Thesis Document | [📥 View on Google Drive](https://drive.google.com/file/d/1g0qs2jMMuvtVUh_RYSbjl1XyBXcjZCBK/view?usp=drive_link) |
-| **ACM Research Journal** | `PDF` | Research journal formatted in ACM style | [`DATSCI20_Journal.pdf`](./DATSCI20_Journal.pdf) |
-| **Model Documentation** | `PDF` | Complete performance logs & evaluations | [`DATSCI20_Documentation.pdf`](./DATSCI20_Documentation.pdf) |
-| **Research Description** | `PDF` | Detailed background, scope, & objectives | [`DATSCI20_ResearchDescription.pdf`](./DATSCI20_ResearchDescription.pdf) |
-| **Presentation Poster** | `PNG` | High-res tarp display summarizing key findings | [`DATSCI20_Tarp.png`](./DATSCI20_Tarp.png) |
+| **ACM Research Journal** | `PDF` | Research journal formatted in ACM style | [📄 View DATSCI20_Journal.pdf](https://github.com/ShizueSeira/Thesis-DATASCI20-Output/blob/main/DATASCI20_Journal.pdf) |
+| **Model Documentation** | `PDF` | Complete performance logs & evaluations | [📄 View DATSCI20 - Documentation.pdf](https://github.com/ShizueSeira/Thesis-DATASCI20-Output/blob/main/DATASCI20%20-%20Documentation.pdf) |
+| **Research Description** | `PDF` | Detailed background, scope, & objectives | [📄 View DATSCI20_ResearchDescription.pdf](https://github.com/ShizueSeira/Thesis-DATASCI20-Output/blob/main/DATASCI20_ResearchDescription.pdf) |
+| **Presentation Poster** | `PNG` | High-res tarp display summarizing key findings | [🖼️ View DATSCI20_Tarp.png](https://github.com/ShizueSeira/Thesis-DATASCI20-Output/blob/main/DATASCI20_Tarp.png) |
+| **Source Code & GUI** | `Folder` | Complete Python scripts, preprocessing, & UI | [📂 Open DATSCI20_Codes Directory](https://github.com/ShizueSeira/Thesis-DATASCI20-Output/tree/main/DATSCI20_Codes) |
 
 ---
 
