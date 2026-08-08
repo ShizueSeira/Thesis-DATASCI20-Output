@@ -1,0 +1,8 @@
+1. open anaconda prompt
+2. paste 'conda activate GPU'
+3. go to the file directory of the app via 'cd "C:\Codes\Jupytr\Theesis GUI"'
+4. paste 'streamlit run app.py'
+
+dont put email just enter
+
+demo time
